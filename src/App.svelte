@@ -19,7 +19,7 @@
     <Counter />
   </div>
 
-  <p>
+  <p class="text-red-500">
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p>
 
